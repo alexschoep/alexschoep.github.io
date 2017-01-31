@@ -1,18 +1,28 @@
+iframe {    
+ border:0 none;
+}
+
+body {
+background-color:rgb(50,50,100);
+font-family:verdana;
+}
+
 section {
+background-color:rgb(230,230,255);
 border:1px solid;
 padding:10px;
-width:60%;
+width:70%;
 margin:auto;
 }
 
 h1 {
-color:darkblue;
+color:rgb(70, 100, 200);
 text-align:center;
 font-size:200%;
 }
 
 h2 {
-color:darkblue;
+color:rgb(70, 100, 200);
 text-align:left;
 display: inline;
 }
